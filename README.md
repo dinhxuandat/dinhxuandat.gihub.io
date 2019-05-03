@@ -1,2 +1,2 @@
 # dinhxuandat.gihub.io
-satrtup
+start
